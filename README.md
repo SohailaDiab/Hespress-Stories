@@ -1,4 +1,4 @@
-![Hespress Logo](https://github.com/SohailaDiab/Hespress-Stories/assets/70928356/16eb8ce7-6c7f-4084-93b0-9b43e47e724a)
+![image](https://github.com/SohailaDiab/Hespress-Stories/assets/70928356/fd5c897e-4326-4e45-929e-7cf8d5f10174)
 
 # Hespress-Stories
 An Arabic NLP Project.
