@@ -20,3 +20,4 @@ Given news from the Morrocan online news website, Hespress, what is the topic of
   - SGDClassifier
   - Logistic Regression
 - Comparing the models
+  - Support Vector Machine performed the best with 85%
